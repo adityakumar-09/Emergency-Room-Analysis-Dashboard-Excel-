@@ -1,10 +1,3 @@
-# 🏥 Hospital Emergency Room Analysis Dashboard
-
-![Hospital Dashboard](https://github.com/adityakumar-09/Emergency-Room-Analysis-Dashboard-Using-Excel/blob/main/Dashboard-Preview.png)
-
-
----
-
 ## 🔍 Project Overview
 
 This Excel-based dashboard provides a data-driven view of hospital emergency room operations. It visualizes key insights such as patient flow, department performance, wait times, and satisfaction levels. Built to support better planning, resource allocation, and monitoring of emergency care performance.
@@ -62,4 +55,9 @@ The dataset ([`Hospital Emergency Room Data.csv`](./Hospital%20Emergency%20Room%
 - Drive better insights for staffing and patient experience
 
 ---
+## 🏥 Hospital Emergency Room Analysis Dashboard
 
+![Hospital Dashboard](https://github.com/adityakumar-09/Emergency-Room-Analysis-Dashboard-Using-Excel/blob/main/Dashboard-Preview.png)
+
+
+---
