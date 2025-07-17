@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Analysis Dashboard
 
-![Hospital Dashboard]([https://github.com/your-username/your-repo/blob/main/Screenshot%202025-07-17%20120909.png](https://github.com/adityakumar-09/Emergency-Room-Analysis-Dashboard-Excel-/blob/main/Dashboard-Preview.png))
+![Hospital Dashboard](https://github.com/your-username/your-repo/blob/main/Screenshot%202025-07-17%20120909.png(https://github.com/adityakumar-09/Emergency-Room-Analysis-Dashboard-Excel-/blob/main/Dashboard-Preview.png))
 
 
 ---
